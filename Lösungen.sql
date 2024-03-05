@@ -1,5 +1,4 @@
 
-
 -- CH1 - Select Queries 101
 
 -- Find the title of each film
